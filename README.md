@@ -1,10 +1,10 @@
-# 🎨 Grafite 07
+#  Grafite 07
 
 > Um projeto dedicado a mapear, valorizar e catalogar a rica cena de arte urbana e grafite da cidade de Curitiba.
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Grafite 07** foi desenvolvido como projeto prático para a disciplina **Padrões Web** do curso de **Bacharelado em Sistemas de Informação (BSI)** da **Universidade Tecnológica Federal do Paraná (UTFPR) — Câmpus Curitiba**.
 
@@ -12,7 +12,7 @@ O objetivo da plataforma é oferecer uma interface acessível e moderna para apr
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **HTML5**
 * **CSS3**
@@ -20,7 +20,7 @@ O objetivo da plataforma é oferecer uma interface acessível e moderna para apr
 
 ---
 
-## 👥 Equipe de Desenvolvimento
+##  Equipe de Desenvolvimento
 
 Projeto desenvolvido pelos estudantes de **Sistemas de Informação (BSI) - UTFPR**:
 
@@ -33,7 +33,7 @@ Projeto desenvolvido pelos estudantes de **Sistemas de Informação (BSI) - UTFP
 
 ---
 
-## 🎓 Contexto Acadêmico
+##  Contexto Acadêmico
 
 * **Instituição:** Universidade Tecnológica Federal do Paraná (UTFPR)
 * **Curso:** Bacharelado em Sistemas de Informação (BSI)
@@ -43,5 +43,5 @@ Projeto desenvolvido pelos estudantes de **Sistemas de Informação (BSI) - UTFP
 ---
 
 <p align="center">
-  Grafite 07 — Desenvolvido com 🎨 e 💻 pelos alunos de BSI da UTFPR
+  Grafite 07 — Desenvolvido pelos alunos de BSI da UTFPR
 </p>
